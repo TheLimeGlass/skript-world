@@ -1,0 +1,6 @@
+name: skript-world
+author: LimeGlass
+description: A Skript addon for world management and features
+version: 1.0.0
+main: me.limeglass.skriptworld.SkriptWorld
+depend: [Skript]
